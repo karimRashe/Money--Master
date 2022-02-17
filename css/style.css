@@ -1,0 +1,19 @@
+.karim{
+   display: grid; 
+   grid-template-columns: repeat(4, 1fr);
+   grid-gap: 1em;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   border-radius: 10px;
+  
+}
+
+
+
+
+
+.Rshed{
+   width: 450px;
+   height: 650px;
+}
